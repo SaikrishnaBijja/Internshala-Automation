@@ -4,13 +4,12 @@ This repository contains automation scripts to facilitate tasks related to Inter
 
 **Internshala Auto Apply:**
 
-    - **Description:**  Python script aimed at automating the application process for internships on Internshala.
-    
-    - **Features:**
-    
-        - Logs in to Internshala on behalf of the user.
-        - Searches for relevant internships based on specified criteria.
-        - Automates the application process for the found internships.
+***Description***  
+Python script aimed at automating the application process for internships on Internshala.
+***Features***
+- Logs in to Internshala on behalf of the user.
+- Searches for relevant internships based on specified criteria.
+- Automates the application process for the found internships.
 
 ## Usage:
 - Clone the repo `git clone https://github.com/SaikrishnaBijja/Internshala-Automation` 
